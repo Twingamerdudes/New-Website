@@ -1,0 +1,23 @@
+body{
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #1a1a1a;
+    text-align: center;
+}
+a{
+    /* blueish color */
+    color: #00bfff;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+a:hover{
+    /* different blueish color */
+    color: #00b0df;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1a1a1a;
+}
