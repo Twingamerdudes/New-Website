@@ -11,7 +11,7 @@
         {name: "EngScript", description: "English, as a programming language", link: "https://github.com/Twingamerdudes/EngScript"},
         {name: "Neural Symphony", description: "Fully AI Generated music, one of the few left on spotify", link: "https://www.neuralsymphony.tech/"},
         {name: "Tribe", description: "A tool for simulating lifeforms", link: "https://github.com/Twingamerdudes/Tribe"},
-        {name: "Copilot Language", description: "A programming language made using only", link: "https://github.com/Twingamerdudes/Copilot-Language"},
+        {name: "Copilot Language", description: "A programming language made using only AI", link: "https://github.com/Twingamerdudes/Copilot-Language"},
         {name: "XGen", description: "A FNF No-Code Engine", link: "https://github.com/Twingamerdudes/XGen"}
         ]
 </script>
