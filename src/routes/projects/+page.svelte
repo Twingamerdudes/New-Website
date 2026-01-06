@@ -6,7 +6,6 @@
         {name: "Chaos Mod", description: "A mod for Five Nights at Freddy's Security Breach which makes everything chaotic", link: "https://github.com/Twingamerdudes/Chaos-Mod"},
         {name: "Tire", description: "A programming language made in python", link: "https://github.com/Twingamerdudes/Tire"},
         {name: "Tribe", description: "A tool for simulating lifeforms", link: "https://github.com/Twingamerdudes/Tribe"},
-        {name: "Copilot Language", description: "A programming language made using only AI", link: "https://github.com/Twingamerdudes/Copilot-Language"},
         {name: "XGen", description: "A FNF No-Code Engine", link: "https://github.com/Twingamerdudes/XGen"}
         ]
 </script>
